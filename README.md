@@ -1,5 +1,5 @@
 
-# Keep Talking and Nobody Explode
+# Keep Talking and Nobody Explodes
 # 线路模块和复杂线路的判断程序 
 
 
